@@ -1,0 +1,8 @@
+Throughout the tutorial, I referece the Arduino Github TensorFlowLite Tutorials Github. 
+Here is a link to the relevant page: https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master/GestureToEmoji
+
+Here is the link to the original IMU_Capture.ino file:
+https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master/GestureToEmoji/ArduinoSketches/IMU_Capture
+
+Here is a link to the Google Colab notebook:
+https://colab.research.google.com/github/arduino/ArduinoTensorFlowLiteTutorials/blob/master/GestureToEmoji/arduino_tinyml_workshop.ipynb
